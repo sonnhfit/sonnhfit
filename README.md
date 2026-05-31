@@ -1,6 +1,6 @@
 # Hi, I'm Sơn 👋
 
-I run **RunAgent Robotics** at **[runagent.io](https://runagent.io)**, focused on building infrastructure and products for large-scale robotic systems.
+I'm a founder of **RunAgent Robotics(https://github.com/runagent-robotics/)**, focused on building infrastructure and products for large-scale robotic systems.
 
 ## Open Source Projects
 
