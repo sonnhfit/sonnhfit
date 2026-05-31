@@ -22,8 +22,3 @@ Using natural language prompts, Pavo Engine produces professionally edited video
 - Speech Processing
 - Timeline Automation
 
-Key features:
-- **JSON to Video**
-- Python
-- MIT License
-- FFmpeg
